@@ -11,3 +11,4 @@ MODULES IN PYTHON: Creating, Importing, Built-in modules
 PYTHON SCOPE:
 EXCEPTION HANDLING: Syntax errors, Logical errors, try/except/finally
 OOPS'(Classes & Objects): Creating Classes and Self, Attributes, Methods, Inheritance, Polymorphism 
+ARRAY: creating array, update, accessing elements in array, aray methods.
