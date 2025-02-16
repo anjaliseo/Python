@@ -1,1 +1,27 @@
+LIBRARIES OF PYTHON: 
 
+.NUMPY:=
+Numpy installation
+Numdata Types
+Attributes of arrays, array indexing
+Slicing, reshaping, joining and spliting of arrays
+. PANDAS:=
+Getting to know your data
+Installation to Pandas Library
+Data preparation and transformation
+Exploration on Dataset
+Create your submission file
+
+. MATPLOTELIB:=
+Installation of Matplotlib
+Basic plots in Matplotlib
+Importing Matplotlib
+Scatter Plot, Bar Plot
+Pie Chart, Histogram
+
+. SCIKIT LEARN:=
+Installation of Scikit
+Pre-processing Techniques
+Machine Learning Techniques
+Tensor Flow and Keras
+Neural Networds
