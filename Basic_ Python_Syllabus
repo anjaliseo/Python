@@ -4,11 +4,9 @@ OPERATORS IN PYTHON: Arithmetic, Assignment, Comparison, Logical, Identity, Memb
 CONTROL STATEMENTS: if, if-else, if-elif-else 
 LOOP STATMENTS: while, for, break, continue, pass, range
 LIST AND DICTINORY COMOPREHENSION: Syntax, Uses
-FUNCTION IN PYTHON: Creating, Calling, Arguments, Variables, Recursion
-ANONYMOUS FUNCTIONS: Lambda functions
-GENERATORS IN PYTHON: Creating, Using generators
+FUNCTION IN PYTHON: Creating, Calling, Arguments, Variables: local,global
+ADVANCE FUNCTION IN PYTHON: Recursion*args and **kwargs, Lambda functions, Generators, Decorators 
 MODULES IN PYTHON: Creating, Importing, Built-in modules
-PYTHON SCOPE:
 EXCEPTION HANDLING: Syntax errors, Logical errors, try/except/finally
 OOPS'(Classes & Objects): Creating Classes and Self, Attributes, Methods, Inheritance, Polymorphism 
 ARRAY: creating array, update, accessing elements in array, aray methods.
