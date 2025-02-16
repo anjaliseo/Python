@@ -1,0 +1,13 @@
+FUNDAMENTALS OF PYTHON:  Python instillation and environment, Pyhon get started, python syntax, Python comments.
+DATATYPES IN PYTHON: strings, char, Lists, tuples, sets, range and Dictinories.
+OPERATORS IN PYTHON: Arithmetic, Assignment, Comparison, Logical, Identity, Membership, Bitwise operators
+CONTROL STATEMENTS: if, if-else, if-elif-else 
+LOOP STATMENTS: while, for, break, continue, pass, range
+LIST AND DICTINORY COMOPREHENSION: Syntax, Uses
+FUNCTION IN PYTHON: Creating, Calling, Arguments, Variables, Recursion
+ANONYMOUS FUNCTIONS: Lambda functions
+GENERATORS IN PYTHON: Creating, Using generators
+MODULES IN PYTHON: Creating, Importing, Built-in modules
+PYTHON SCOPE:
+EXCEPTION HANDLING: Syntax errors, Logical errors, try/except/finally
+OOPS'(Classes & Objects): Creating Classes and Self, Attributes, Methods, Inheritance, Polymorphism 
