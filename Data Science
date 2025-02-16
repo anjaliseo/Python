@@ -1,0 +1,31 @@
+EXPLORATORY DATA ANALYSIS (EDA)
+OUTLIERS AND THEIR TREATMENT
+SUPERVISED LEARNING VS UNSUPERVISED LEARNING
+FEATURE EXTRACTION AND CONVERSION
+REGRESSION MODELS:
+Simple Linear regression
+Multiple Linear regression
+Polynomial Linear regression
+Ridge regression
+Bias and Variance tradeoff
+Lasso regression
+Elasticnet regression
+CLASSIFICATION MODELS:
+Logistic regression
+Naive Bayes (Gaussian NB and Multinomial NB)
+KNN Classifier
+SVM
+Regularization
+Kernel Trick
+Decision Tree
+Entropy
+Gini Index
+Random Forest
+Conusion Matrix
+Bootstrapping, Bagging and Boosting
+UNSUPERVISED LEARNING: 
+K-Means Clustering
+Elbow technique
+. ASSOCIATION RULE LEARNING
+Apriori Algorithm
+. MODEL SELECTION
